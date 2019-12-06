@@ -29,6 +29,6 @@ public class DemoThread {
 		
 		MyThread t2 = new MyThread("Íú²Æ");
 		t2.start();
-		
+		System.out.println("¶¼Í¦ºÃ");
 	}
 }
