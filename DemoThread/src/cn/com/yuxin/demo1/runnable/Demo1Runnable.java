@@ -38,6 +38,6 @@ public class Demo1Runnable {
 			System.out.println(Thread.currentThread().getName()+i);
 		}
 		
-		System.out.println("还是继承接口好一点！！");
+		System.out.println("还是继承接口好一点！！！");
 	}
 }
