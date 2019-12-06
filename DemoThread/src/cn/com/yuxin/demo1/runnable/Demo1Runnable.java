@@ -37,5 +37,7 @@ public class Demo1Runnable {
 		for (int i = 0; i < 20; i++) {
 			System.out.println(Thread.currentThread().getName()+i);
 		}
+		
+		System.out.println("还是继承接口好一点！！");
 	}
 }
