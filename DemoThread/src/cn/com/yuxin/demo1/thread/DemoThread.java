@@ -19,8 +19,8 @@ public class DemoThread {
 
 	public static void main(String[] args) {
 		MyThread t1 = new MyThread();
-		t1.setName("小强");
-		t1.start();
+		t1.setName("小王");
+		t1.start();  
 		
 		String name = Thread.currentThread().getName();
 		for (int i = 0; i < 10; i++) {
