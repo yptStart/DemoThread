@@ -30,5 +30,6 @@ public class DemoThread {
 		MyThread t2 = new MyThread("旺财");
 		t2.start();
 		System.out.println("都挺好");
+		System.out.println("今天不想加班了");
 	}
 }
